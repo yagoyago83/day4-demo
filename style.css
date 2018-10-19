@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+
+/*Navbar*/
+.navbar {
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+.navbar li {
+float: left;
+
+}
+
+.navbar li a {
+    display: block;
+    padding: 14px 16px;
+    color: rgb(38, 224, 38)
+}
+
+.navbar li a:hover {
+    background-color: brown;
+}
+header {
+    text-align: center;
+
+}
+.section-imgs {
+display: block;
+height: auto;
+width: 10%;
+margin-left: auto;
+margin-right: auto;
+
+}
+/*footer*/
+footer {
+    text-align: center;
+    margin: 20px 20px;
+    background-color: cadetblue;
+    color: azure;
+}
